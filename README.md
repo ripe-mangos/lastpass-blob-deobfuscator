@@ -11,7 +11,11 @@ cargo install lpass-blob
 lpass-blob [path to the text file]
 ```
 
+---
+
 Created because of Steve Gibson's call-to-action on the [Security Now! Podcast](https://grc.com/sn). I don't use LastPass, but made an account for testing.
+
+I'd like to take this opportunity to plug [KeePassXC](https://keepassxc.org/) (my password manager of choice) and [pass](https://www.passwordstore.org/) (the standard UNIX password manager).
 
 If you find any bugs, please report via Github issues.
 
