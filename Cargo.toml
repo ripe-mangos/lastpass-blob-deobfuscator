@@ -1,5 +1,8 @@
 [package]
 name = "lpass-blob"
+description = "Check your LastPass blob for AES-ECB encryption"
+license = "WTFPL"
+repository = "https://github.com/ripe-mangos/lastpass-blob-deobfuscator"
 version = "0.1.0"
 edition = "2021"
 
